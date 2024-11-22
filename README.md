@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Sound BlasterX Katana: Navigating Audio Precision and User Feedback](j01/)
