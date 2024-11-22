@@ -19,11 +19,13 @@ Initially, I used the remote control to adjust the settings, but I quickly reali
 
 ### **Outcome**
 I was able to achieve a good balance of sound and lighting settings, but I encountered minor difficulties in navigating the app’s menu, especially when trying to save my presets.
+![](../assets/Screenshot_214955.png)
 
 ### **Assessment**
 - **Positive Aspects**:
   - The Sound Blaster Command software utilizes the **visibility of system status** principle by providing real-time feedback when changes are made (e.g., sliders update the audio immediately).
   - The RGB customization aligns well with the **"aesthetic and minimalist design"** principle, offering clear sections for lighting and sound.
+  ![](../assets/Screenshot_214819.png)
 
 - **Challenges**:
   - The menu navigation contradicted my **mental model** of how such interfaces usually work, as it lacked clear "Save Preset" options.
